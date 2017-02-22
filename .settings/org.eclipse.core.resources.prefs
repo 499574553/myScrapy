@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//costco/pipelines.py=utf-8
+encoding//costco/settings.py=utf-8
+encoding//costco/spiders/blacklenovo.py=utf-8
+encoding//costco/spiders/coachoutlet.py=utf-8
+encoding//costco/spiders/costcovitmins.py=utf-8
+encoding//costco/spiders/costcowholesale.py=utf-8
